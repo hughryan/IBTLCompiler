@@ -1,0 +1,19 @@
+<keyword, "(">
+	<keyword, "(">
+		<keyword, "while">
+		<keyword, "(">
+			<relop, "=">
+			<intconst, "5">
+			<identifier, "x">
+		<keyword, ")">
+		<keyword, "(">
+			<keyword, ":=">
+			<identifier, "x">
+			<keyword, "(">
+				<mathop, "-">
+				<identifier, "x">
+				<intconst, "1">
+			<keyword, ")">
+		<keyword, ")">
+	<keyword, ")">
+<keyword, ")">

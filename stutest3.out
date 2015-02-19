@@ -1,0 +1,120 @@
+<keyword, "(">
+	<intconst, "1">
+	<identifier, "x">
+	<keyword, "(">
+		<intconst, "1">
+		<intconst, "5">
+	<keyword, ")">
+<keyword, ")">
+<keyword, "(">
+	<keyword, "(">
+		<genop, "+">
+		<intconst, "1">
+		<keyword, "(">
+			<mathop, "*">
+			<keyword, "(">
+				<genop, "+">
+				<intconst, "2">
+				<intconst, "3">
+			<keyword, ")">
+			<intconst, "7">
+		<keyword, ")">
+	<keyword, ")">
+<keyword, ")">
+<keyword, "(">
+	<keyword, "(">
+		<keyword, "while">
+		<keyword, "(">
+			<relop, "=">
+			<intconst, "5">
+			<identifier, "x">
+		<keyword, ")">
+		<keyword, "(">
+			<keyword, ":=">
+			<identifier, "x">
+			<keyword, "(">
+				<mathop, "-">
+				<identifier, "x">
+				<intconst, "1">
+			<keyword, ")">
+		<keyword, ")">
+	<keyword, ")">
+<keyword, ")">
+<keyword, "(">
+	<keyword, "let">
+	<keyword, "(">
+		<keyword, "(">
+			<identifier, "x">
+			<type, "int">
+		<keyword, ")">
+		<keyword, "(">
+			<identifier, "y">
+			<type, "string">
+		<keyword, ")">
+		<keyword, "(">
+			<identifier, "z">
+			<type, "bool">
+		<keyword, ")">
+	<keyword, ")">
+<keyword, ")">
+<keyword, "(">
+	<keyword, ":=">
+	<identifier, "x">
+	<intconst, "100">
+<keyword, ")">
+<keyword, "(">
+	<keyword, "while">
+	<keyword, "(">
+		<relop, ">">
+		<identifier, "x">
+		<intconst, "0">
+	<keyword, ")">
+	<keyword, "(">
+		<keyword, "stdout">
+		<identifier, "x">
+	<keyword, ")">
+	<keyword, "(">
+		<keyword, ":=">
+		<identifier, "x">
+		<keyword, "(">
+			<mathop, "-">
+			<identifier, "x">
+			<intconst, "1">
+		<keyword, ")">
+	<keyword, ")">
+<keyword, ")">
+<keyword, "(">
+	<keyword, "if">
+	<keyword, "(">
+		<relop, ">">
+		<intconst, "11">
+		<intconst, "7">
+	<keyword, ")">
+	<keyword, "(">
+		<keyword, "if">
+		<keyword, "(">
+			<relop, "=">
+			<identifier, "x">
+			<intconst, "627">
+		<keyword, ")">
+		<keyword, "(">
+			<keyword, "stdout">
+			<keyword, "(">
+				<realmathop, "sin">
+				<keyword, "(">
+					<mathop, "-">
+					<realconst, "-0.0">
+					<intconst, "55">
+				<keyword, ")">
+			<keyword, ")">
+		<keyword, ")">
+		<keyword, "(">
+			<keyword, "stdout">
+			<stringvalue, "hello">
+		<keyword, ")">
+	<keyword, ")">
+	<keyword, "(">
+		<keyword, "stdout">
+		<stringvalue, "world">
+	<keyword, ")">
+<keyword, ")">

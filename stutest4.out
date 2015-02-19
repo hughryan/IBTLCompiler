@@ -1,0 +1,27 @@
+<keyword, "(">
+	<intconst, "1">
+	<identifier, "x">
+	<keyword, "(">
+		<intconst, "1">
+		<intconst, "5">
+	<keyword, ")">
+<keyword, ")">
+<keyword, "(">
+	<keyword, "(">
+		<genop, "+">
+		<intconst, "1">
+		<keyword, "(">
+			<mathop, "*">
+			<keyword, "(">
+				<genop, "+">
+				<intconst, "2">
+				<intconst, "3">
+			<keyword, ")">
+			<intconst, "7">
+		<keyword, ")">
+	<keyword, ")">
+<keyword, ")">
+<keyword, "(">
+	<keyword, "(">
+		<keyword, "while">
+		<keyword, "(">

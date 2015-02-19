@@ -1,0 +1,16 @@
+(
+ (
+  while (- 3 5) 
+  (let ((hai int) (hai2 bool) (hai3 real)))  
+  (if (< 3 6.5)
+   hai2
+   hai1
+  )
+  (if (< 3 6.5)
+   hai2
+   (stdout "killme")
+  )
+  6.4
+  )
+)
+ 
